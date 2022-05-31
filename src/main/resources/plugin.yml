@@ -1,0 +1,4 @@
+name: RaceOfKovo
+version: '${project.version}'
+main: com.gmail.fateconquered.raceofkovo.RaceOfKovo
+api-version: 1.16
